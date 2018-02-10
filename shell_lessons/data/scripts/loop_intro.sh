@@ -1,4 +1,4 @@
-for number in {100..200}
+for number in {1..20}
 do
 	echo $number
 done
