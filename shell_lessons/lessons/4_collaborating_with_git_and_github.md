@@ -98,15 +98,15 @@ Your objective is to:
 
 1) Create a shell script that provides some information from the gapminder dataset.
 2) Add, push, and commit this script to your respective repos.
-3) Clone the script onto your local system to perform and track changes done by your collaborator.
+3) Perform and track changes with your collaborator.
 
-Your modifications to the lesson 3 script should be able to:
-a) Change the script so it finds countries names that start with 5 consonants of your choosing. 
-b) Sort the contents within each file (they should be sorted by year).
-c) Capture the entire content of the sorted files onto a single output file.
-d) Sort the contents of the file again (by year).
-e) Move the script to your Desktop.
-e) Comment the script to explain its purpose and what each line of code does.
+Feel free to use your lesson 3 final script for inspiration. Your new collaborative script should:<br>
+a) Find countries with names that start with 5 consonants of your choosing.<br> 
+b) Sort the contents within each file (they should be sorted by year).<br>
+c) Capture the entire content of the sorted files onto a single output file.<br>
+d) Sort the contents of the file again (by year).<br>
+e) Move the script to your Desktop.<br>
+e) Comment the script to explain its purpose and what each line of code does.<br>
 
 Make sure to back and ford when collaborating in this script with your partner!
 
